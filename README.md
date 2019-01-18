@@ -1,2 +1,3 @@
 # SiberiaWool
-none
+
+金融数学本科生
